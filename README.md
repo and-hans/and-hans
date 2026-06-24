@@ -11,4 +11,4 @@ My name is **Andrew Hansraj** and I studied **Nanotechnology Engineering at the 
 - 📫 How to reach me: hansrajandrew@icloud.com
 - ⚡ Fun fact: I was born in Canada, but my background is Indo-Caribbean
 
-![](https://komarev.com/ghpvc/?username=mqzpt&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=and-hans&color=brightgreen)
