@@ -5,7 +5,7 @@ My name is **Andrew Hansraj** and I studied **Nanotechnology Engineering at the 
 - 🏢 I graduated from **University of Waterloo**
 - 🔭 I’m currently working on **RISC-V emulator**
 - 🌱 I’m currently learning **embedded linux**
-- 👯 I’m looking to collaborate on **wardware and embedded Contests**
+- 👯 I’m looking to collaborate on **hardware and embedded contests**
 - 🤔 I’m looking for help with **compiler development**
 - 💬 Ask me about **embedded systems**
 - 📫 How to reach me: hansrajandrew@icloud.com
